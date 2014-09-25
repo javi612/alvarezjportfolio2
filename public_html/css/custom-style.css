@@ -1,16 +1,16 @@
 div {
     border-style: solid;
     border-width: 5px;
-    border-color: palegreen;
+    border-color: gray;
     padding: 30px;
 }
 
 .container {
-    border-color: silver;
+    border-color: white;
 }
 
 .row {
-    border-color: black;
+    border-color: palegreen;
 }
 
 .list-group-item{
@@ -19,5 +19,5 @@ div {
     margin-bottom: 40px;
 }
 body {
-    background-image: url('')
+    background-image: url('http://cdn.bleacherreport.net/images_root/article/media_slots/photos/000/594/644/Goldson_original.gif?1351566926')
 }
