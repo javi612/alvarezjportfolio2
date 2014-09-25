@@ -25,3 +25,7 @@ body{
 .container {
     background-image: url('http://cdn.bleacherreport.net/images_root/article/media_slots/photos/000/594/644/Goldson_original.gif?1351566926')
 }
+
+a {
+    color: #d58512;
+}
