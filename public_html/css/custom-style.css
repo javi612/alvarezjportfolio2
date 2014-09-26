@@ -29,3 +29,8 @@ body{
 a {
     color: #d58512;
 }
+
+.uppercase {
+    text-transform: uppercase;
+}
+   
